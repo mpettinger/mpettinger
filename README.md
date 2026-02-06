@@ -4,4 +4,4 @@ I'm currently learning about the Jetson nano 2GB, and AI.
 
 I would like to collaborate on working with the Jetson nano. I have had many struggles so far as getting it setup and running tutorials.
 
-The best way to reach me is at mikepettinger.cfi@gmail.com
+The best way to reach me is at pettinger.michael@gmail.com
